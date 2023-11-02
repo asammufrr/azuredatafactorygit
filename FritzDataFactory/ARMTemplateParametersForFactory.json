@@ -13,6 +13,12 @@
 		},
 		"FRITZLiveDB_connectionString": {
 			"value": ""
+		},
+		"FritzBlobStorage_connectionString": {
+			"value": ""
+		},
+		"TestDb_connectionString": {
+			"value": ""
 		}
 	}
 }
