@@ -1,0 +1,9 @@
+{
+	"name": "FritzDataFactory",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb538a43-ba40-4d2e-bb0b-52bbb605755d",
+		"tenantId": "4bf18f5b-0a47-4fc7-a893-a870248aabe1"
+	}
+}

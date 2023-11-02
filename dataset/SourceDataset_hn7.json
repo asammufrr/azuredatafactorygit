@@ -1,0 +1,17 @@
+{
+	"name": "SourceDataset_hn7",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "FRITZLiveDB",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "Downstream",
+			"table": "Facts_IIROutages"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
