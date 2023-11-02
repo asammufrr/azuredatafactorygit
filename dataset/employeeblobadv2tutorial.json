@@ -1,5 +1,5 @@
 {
-	"name": "SourceDataset_a33",
+	"name": "employeeblobadv2tutorial",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "FritzBlobStorage",

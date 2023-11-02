@@ -1,5 +1,5 @@
 {
-	"name": "DestinationDataset_a33",
+	"name": "employeetabletestdb",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "TestDb",

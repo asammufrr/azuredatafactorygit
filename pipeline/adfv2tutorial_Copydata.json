@@ -92,13 +92,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "SourceDataset_a33",
+						"referenceName": "employeeblobadv2tutorial",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DestinationDataset_a33",
+						"referenceName": "employeetabletestdb",
 						"type": "DatasetReference"
 					}
 				]
