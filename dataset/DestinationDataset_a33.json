@@ -1,0 +1,16 @@
+{
+	"name": "DestinationDataset_a33",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "TestDb",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "ForADF"
+		}
+	}
+}
