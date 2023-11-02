@@ -4,7 +4,7 @@
 		"description": "Testing",
 		"activities": [
 			{
-				"name": "Copy_hn7",
+				"name": "IIROutages Copy Data",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
