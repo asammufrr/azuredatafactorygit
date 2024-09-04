@@ -48,7 +48,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "AzureSqlTable1",
+						"referenceName": "DoeStatsTemp",
 						"type": "DatasetReference"
 					}
 				]
