@@ -1,0 +1,12 @@
+{
+	"name": "IEA_CarSales_HTTPLink",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://api.iea.org/evs",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
