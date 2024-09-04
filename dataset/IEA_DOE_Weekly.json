@@ -1,0 +1,22 @@
+{
+	"name": "IEA_DOE_Weekly",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "IEA DOE Weekly",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation",
+				"relativeUrl": "/table9.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}

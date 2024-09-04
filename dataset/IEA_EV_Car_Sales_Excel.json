@@ -1,0 +1,22 @@
+{
+	"name": "IEA_EV_Car_Sales_Excel",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "IEA_CarSales_HTTPLink",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Excel",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			},
+			"firstRowAsHeader": true,
+			"compression": {
+				"type": "bzip2",
+				"level": "Fastest"
+			}
+		},
+		"schema": []
+	}
+}
