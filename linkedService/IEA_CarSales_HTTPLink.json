@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "http://ir.eia.gov/wpsr/",
+			"url": "http://ir.eia.gov/wpsr/table9.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
