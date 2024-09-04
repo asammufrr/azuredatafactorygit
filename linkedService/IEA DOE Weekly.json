@@ -1,0 +1,12 @@
+{
+	"name": "IEA DOE Weekly",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://ir.eia.gov/wpsr/table9.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
