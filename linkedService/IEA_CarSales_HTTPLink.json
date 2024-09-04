@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://api.iea.org/evs",
+			"url": "http://ir.eia.gov/wpsr/",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
